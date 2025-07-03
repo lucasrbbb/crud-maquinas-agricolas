@@ -1,16 +1,18 @@
-# crud_maquinas_agricolas
+# CRUD Máquinas Agrícolas
 
-A new Flutter project.
+Sistema Flutter para gerenciamento de máquinas agrícolas, com funcionalidades de:
 
-## Getting Started
+✅ Cadastro de máquinas (inclusão, edição, exclusão)  
+✅ Consulta e listagem de máquinas  
+✅ Filtros combinados por Tipo, Marca, Valor e Status  
+✅ Integração com API RESTful  
 
-This project is a starting point for a Flutter application.
+---
 
-A few resources to get you started if this is your first Flutter project:
+## 🚀 Tecnologias
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- **Flutter** (versão X.Y.Z)
+- **Dart**
+- API RESTful em JSON
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
